@@ -1,0 +1,16 @@
+From: PaypaI Support <support@paypa1.com>
+To: victim@example.com
+Subject: Urgent: Verify Your Account Now
+
+Dear Customer,
+
+We noticed unusual activity in your account. 
+Your account will be suspended in 24 hours unless you verify your details immediately.
+
+Click the link below to verify:
+http://malicious-verify-account.ru/login
+
+Thank you,
+PayPal Security Team
+
+Attachment: Account_Verification.zip
